@@ -41,4 +41,4 @@ General flow:
 ## Contributors
 
 - Austin Gatchell <ahg015@shsu.edu>
-- Please add your name here if you're a contributor!
+- Jocelyn Presley <jtp050@shsu.edu>
